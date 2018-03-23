@@ -1,1 +1,4 @@
 09:58:33.131 INFO  - Processing command line option -hwspec D:\ra22-2015\lab3\SDK\SDK_Export\hw\system.xml. 
+10:10:56.009 INFO  - FPGA configured successfully with bitstream "D:/ra22-2015/lab3/SDK/SDK_Workspace/lab3_hw_platform/download.bit" 
+10:11:30.287 INFO  - FPGA configured successfully with bitstream "D:/ra22-2015/lab3/SDK/SDK_Workspace/lab3_hw_platform/download.bit" 
+10:31:50.149 ERROR - Unexpected error while parsing XMD response ?: com.google.gson.JsonSyntaxException: com.google.gson.stream.MalformedJsonException: invalid number or unquoted string near  
