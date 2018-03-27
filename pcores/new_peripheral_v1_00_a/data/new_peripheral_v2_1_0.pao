@@ -1,0 +1,10 @@
+##############################################################################
+## Filename:          D:/ra22-2015/lab3/pcores/new_peripheral_v1_00_a/data/new_peripheral_v2_1_0.pao
+## Description:       Peripheral Analysis Order
+## Date:              Tue Mar 27 09:21:37 2018 (by Create and Import Peripheral Wizard)
+##############################################################################
+
+lib proc_common_v3_00_a  all 
+lib axi_lite_ipif_v1_01_a  all 
+lib new_peripheral_v1_00_a user_logic vhdl
+lib new_peripheral_v1_00_a new_peripheral vhdl

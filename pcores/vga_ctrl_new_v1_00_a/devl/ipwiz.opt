@@ -1,0 +1,10 @@
+-batch 
+-create vga_ctrl_new 
+-ver 1.00.a 
+-dir "D:\ra22-2015\lab3" 
+-lang vhdl 
+-bus axi4lite s 
+-reg 1 
+-xps 
+-ise 
+-driver 

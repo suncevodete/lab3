@@ -1,0 +1,12 @@
+run
+-opt_level 2
+-opt_mode speed
+-ifmt mixed
+-ifn "D:\ra22-2015\lab3\pcores\vga_ctrl_new_v1_00_a\devl\synthesis\vga_ctrl_new_xst.prj"
+-top vga_ctrl_new
+-p virtex6
+-ofn "D:\ra22-2015\lab3\pcores\vga_ctrl_new_v1_00_a\devl\synthesis\vga_ctrl_new_xst.ngc"
+-iobuf NO
+-rtlview YES
+-hierarchy_separator /
+-work_lib vga_ctrl_new_v1_00_a

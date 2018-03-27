@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- IMPORTANT: This is an internal file that has been generated
+     by the Xilinx ISE software.  Any direct editing or
+     changes made to this file may result in unpredictable
+     behavior or data corruption.  It is strongly advised that
+     users do not edit the contents of this file. -->
+<messages>
+<msg type="error" file="HDLCompiler" num="1314" delta="new" >"D:\ra22-2015\lab3\pcores\vga_ctrl_new_v1_00_a\hdl\vhdl\vga_ctrl_new.vhd" Line 310: Formal port/generic &lt;<arg fmt="%s" index="1">bus2ip_cs</arg>&gt; is not declared in &lt;<arg fmt="%s" index="2">user_logic</arg>&gt;
+</msg>
+
+<msg type="error" file="HDLCompiler" num="432" delta="old" >"D:\ra22-2015\lab3\pcores\vga_ctrl_new_v1_00_a\hdl\vhdl\vga_ctrl_new.vhd" Line 291: Formal &lt;<arg fmt="%s" index="1">bus2ip_data</arg>&gt; has no actual or default value.
+</msg>
+
+<msg type="error" file="HDLCompiler" num="854" delta="old" >"D:\ra22-2015\lab3\pcores\vga_ctrl_new_v1_00_a\hdl\vhdl\vga_ctrl_new.vhd" Line 179: Unit &lt;<arg fmt="%s" index="1">imp</arg>&gt; ignored due to previous errors.
+</msg>
+
+</messages>
+
